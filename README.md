@@ -24,3 +24,8 @@ Edit the names list in fetcher.py, then run:
     Hossein Khalafian - 4 repos
     Linus Torvalds - 12 repos
     Guido van Rossum - 28 repos
+
+## Tests
+
+    pip install pytest
+    pytest
